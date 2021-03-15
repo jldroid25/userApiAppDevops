@@ -11,7 +11,7 @@ app.get('/', (req, res) => {
       position: 'Site Reliability Engineer'
      },
      { 
-        name:     'MindHunter 2',
+        name:     'MindHunter 3',
         email:    'Mhunter@devops.sre',
         position: 'Devops Engineer'
        },
